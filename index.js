@@ -119,7 +119,7 @@ let namaPorto = [
       "Website Manajemen karyawan untuk HRD/manajer ngelelola karyawan, saya bertujuan untuk mengasah kemampuan reactjs crud object, components, props, useState useEffect fetch API database",
     tech2: "React JS, Tailwind, Daisy UI, Firebase",
     githubLogo:
-      '<a href=https://github.com/Faris955/todo-list-react target="_blank"> <i class="fa-brands fa-github"></i></a>',
+      '<a href=https://github.com/Faris955/dash-manajemen-karyawan target="_blank"> <i class="fa-brands fa-github"></i></a>',
     visitLogo:
       '<a href=https://dash-manajemen-karyawan.netlify.app/ target = "_blank"><i class="fa-regular fa-eye"></i></a>',
   },
