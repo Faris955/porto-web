@@ -93,11 +93,35 @@ let namaPorto = [
     img: '<img src="./src/assets/cofe.png" alt="" class="rounded-md" />',
     description:
       "Sebuah Web daftar harga kopi, tujuan saya membuat ini untuk mengasah kemampuan css dan javascript saya",
-    tech2: "Java Script, CSS",
+    tech2: "Javascript, CSS",
     githubLogo:
       '<a href=https://github.com/Faris955/web-coffe.git target="_blank"> <i class="fa-brands fa-github"></i></a>',
     visitLogo:
       '<a href=https://cofeeporto.netlify.app/ target = "_blank"><i class="fa-regular fa-eye"></i></a>',
+  },
+  {
+    id: 4,
+    title: "Todo List",
+    img: '<img src="./src/assets/todolist.png" alt="" class="rounded-md" />',
+    description:
+      "Sebuah Web Todolist sederhana, saya bertujuan untuk mengasah kemampuan react js crud, components, props, useState useEffect",
+    tech2: "React JS, Bootstrap, Firebase",
+    githubLogo:
+      '<a href=https://github.com/Faris955/todo-list-react target="_blank"> <i class="fa-brands fa-github"></i></a>',
+    visitLogo:
+      '<a href=https://to-do-list-porto.netlify.app/ target = "_blank"><i class="fa-regular fa-eye"></i></a>',
+  },
+  {
+    id: 5,
+    title: "Dash Manajemen Karyawan",
+    img: '<img src="./src/assets/manajemen.png" alt="" class="rounded-md" />',
+    description:
+      "Website Manajemen karyawan untuk HRD/manajer ngelelola karyawan, saya bertujuan untuk mengasah kemampuan reactjs crud object, components, props, useState useEffect fetch API database",
+    tech2: "React JS, Tailwind, Daisy UI, Firebase",
+    githubLogo:
+      '<a href=https://github.com/Faris955/todo-list-react target="_blank"> <i class="fa-brands fa-github"></i></a>',
+    visitLogo:
+      '<a href=https://dash-manajemen-karyawan.netlify.app/ target = "_blank"><i class="fa-regular fa-eye"></i></a>',
   },
 ];
 namaPorto.map((porto) => {
